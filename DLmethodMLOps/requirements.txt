@@ -1,6 +1,9 @@
 # local package
+numpy
+pandas
+scipy
+matplotlib
 -e .
-
 # external requirements
 click
 Sphinx
